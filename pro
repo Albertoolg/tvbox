@@ -709,39 +709,16 @@ https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",SEO TV 4 Películas (1080p)
-https://live.seo.tv.bo/live/4SEO.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",ViX Cine Club (720p)
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Science",Hiperconectados Televisión (720p)
-https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Education",Once Mexico (1080p)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Education",Señal España (XHUNES-TDT) (720p)
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Education",SET Televisión Canal 26.2 (720p) [Not 24/7]
-http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Education",TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Education",TV UJAT (XHUJAT-TDT) (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Business",Pymes TeVe
-https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Business",Tevex (720p) [Not 24/7]
-https://v4.tustreaming.cl/tevexinter/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",SEO TV 5 Deportes (1080p)
-https://live.seo.tv.bo/live/5SEO.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ViX Lo Mejor De La Liga MX (720p)
-https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Comedy",SEO TV 7 (1080p)
-https://live.seo.tv.bo/live/7SEO.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Comedy",ViX Jajaja (1080p)
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
