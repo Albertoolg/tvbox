@@ -693,20 +693,16 @@ https://live.seo.tv.bo/live/6SEO.m3u8
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",ViX Familia (720p)
 https://linear-195.frequency.stream/195/hls/master/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",ViX Parejas (1080p)
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment;Family",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Movies",Filmex (Xumo) (1080p) [Geo-blocked]
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Filmex Clásico (1080p) [Geo-blocked]
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Movies",Moovimex (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Movies",MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
