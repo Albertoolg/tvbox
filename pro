@@ -1,4 +1,109 @@
 #EXTM3U
+
+#EXTINF:-1,BBC Kids
+https://jmp2.uk/SamsungTVPlus/US800003JM.m3u8
+
+#EXTINF:-1,AMC en Español
+https://jmp2.uk/SamsungTVPlus/USBD7000017L.m3u8
+
+#EXTINF:-1,Zona TUDN
+https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
+
+#EXTINF:-1,Telemundo California
+https://jmp2.uk/SamsungTVPlus/USBC4400020H7.m3u8
+
+#EXTINF:-1,Telemundo Al Día
+https://jmp2.uk/SamsungTVPlus/USBB3200016HO.m3u8
+
+#EXTINF:-1,Estrella TV
+https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
+
+#EXTINF:-1,Estrella News
+https://jmp2.uk/SamsungTVPlus/USAJ2200020N4.m3u8
+
+#EXTINF:-1,Estrella Games
+https://jmp2.uk/SamsungTVPlus/USBC24000145I.m3u8
+
+#EXTINF:-1,Sony Canal Competencias
+https://jmp2.uk/SamsungTVPlus/USAJ3504719A.m3u8
+
+#EXTINF:-1,Sony Canal Comedias
+https://jmp2.uk/SamsungTVPlus/USAJ22000057N.m3u8
+
+#EXTINF:-1,Sony Canal Novelas
+https://jmp2.uk/SamsungTVPlus/USAJ3000002OC.m3u8
+
+#EXTINF:-1,Canela.TV
+https://jmp2.uk/SamsungTVPlus/USBC39000080S.m3u8
+
+#EXTINF:-1,ViX Novelas de romance
+https://jmp2.uk/SamsungTVPlus/USBB44000099N.m3u8
+
+#EXTINF:-1,Las 3 Marías
+https://jmp2.uk/SamsungTVPlus/USBD17000172A.m3u8
+
+#EXTINF:-1,ViX Grandes Parejas
+https://jmp2.uk/SamsungTVPlus/USBC2100012EJ.m3u8
+
+#EXTINF:-1,ViX Villanos de Novela
+https://jmp2.uk/SamsungTVPlus/USBC2100011WI.m3u8
+
+#EXTINF:-1,ViX JaJaJa
+https://jmp2.uk/SamsungTVPlus/USBC2100010OS.m3u8
+
+#EXTINF:-1,Rebelde
+https://jmp2.uk/SamsungTVPlus/USBD1700018II.m3u8
+
+#EXTINF:-1,Galanes
+https://jmp2.uk/SamsungTVPlus/USBD2700002DU.m3u8
+
+#EXTINF:-1,Cine Retro
+https://jmp2.uk/SamsungTVPlus/USBD2500022U5.m3u8
+
+#EXTINF:-1,Cine de Oro
+https://jmp2.uk/SamsungTVPlus/USBD2700005KL.m3u8
+
+#EXTINF:-1,Como Dice el Dicho
+https://jmp2.uk/SamsungTVPlus/USBD2700004ME.m3u8
+
+#EXTINF:-1,Pequenos Gigantes
+https://jmp2.uk/SamsungTVPlus/USBD2700003F3.m3u8
+
+#EXTINF:-1,Aquí y Ahora
+https://jmp2.uk/SamsungTVPlus/USBD1700015J1.m3u8
+
+#EXTINF:-1,Noticias Univision 24/7
+https://jmp2.uk/SamsungTVPlus/USBD1700014QU.m3u8
+
+#EXTINF:-1,Cine Romantico
+https://jmp2.uk/SamsungTVPlus/USBA3800001E0.m3u8
+
+#EXTINF:-1,XITE Celebrates
+https://jmp2.uk/SamsungTVPlus/USBD350003932.m3u8
+
+#EXTINF:-1,XITE 80s Flashback
+https://jmp2.uk/SamsungTVPlus/USBB320000647.m3u8
+
+#EXTINF:-1,XITE 90s Throwback
+https://jmp2.uk/SamsungTVPlus/USBB3200007AK.m3u8
+
+#EXTINF:-1,XITE Hits
+https://jmp2.uk/SamsungTVPlus/USBD3300004RH.m3u8
+
+#EXTINF:-1,XITE Country Today
+https://jmp2.uk/SamsungTVPlus/USBD3300006O3.m3u8
+
+#EXTINF:-1,XITE Classic Country
+https://jmp2.uk/SamsungTVPlus/USBD3300011UT.m3u8
+
+#EXTINF:-1,XITE Nuevo Latino
+https://jmp2.uk/SamsungTVPlus/USBD3300007PB.m3u8
+
+#EXTINF:-1,XITE Siempre Latino
+https://jmp2.uk/SamsungTVPlus/USBD3300010L9.m3u8
+
+#EXTINF:-1,XITE R&B Classic Jams
+https://jmp2.uk/SamsungTVPlus/USBD330000948.m3u8
 #EXTINF:-1,MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
